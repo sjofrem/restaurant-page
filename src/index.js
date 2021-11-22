@@ -1,7 +1,17 @@
-import { navbar } from './navbar';
+import { createNavbar } from "./navbar";
+import { createHome } from "./home";
+import { createMenu } from "./menu";
 
-function home(){
-    navbar();
-}
+const contentContainer = document.querySelector('#content');
 
-document.body.appendChild(home());
+
+contentContainer.appendChild(createNavbar());
+contentContainer.appendChild(createHome());
+contentContainer.appendChild(createMenu());
+
+
+
+
+
+
+
