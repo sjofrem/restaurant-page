@@ -15,14 +15,17 @@ function createNavbar(){
     const navItems = document.createElement('ul');
 
     const homeItem = document.createElement('li'); 
+    homeItem.classList.add('homeBtn');
     homeItem.innerText = 'Home';
     navItems.appendChild(homeItem);
 
     const menuItem = document.createElement('li'); 
+    menuItem.classList.add('menuBtn');
     menuItem.innerText = 'Menu';
     navItems.appendChild(menuItem);
 
     const contactItem = document.createElement('li'); 
+    contactItem.classList.add('contactBtn');
     contactItem.innerText = 'Contact';
     navItems.appendChild(contactItem);
 

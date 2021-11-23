@@ -16,7 +16,7 @@ function createMenu(){
     const margherita = createMenuItem('Pizza Margherita', '$15.00', 'Mozzarella cheese and fresh basil.');
     dishes.appendChild(margherita);
 
-    for(let i = 0; i<9; i++){
+    for(let i = 0; i<7; i++){
         const margherita = createMenuItem('Pizza Margherita', '$15.00', 'Mozzarella cheese and fresh basil.');
         dishes.appendChild(margherita);
     }
