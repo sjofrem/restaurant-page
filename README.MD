@@ -1,9 +1,9 @@
 # Restaurant Page
 
-### [Live Demo](sjofrem.github.io/restaurant-page/)
+### [Live Demo](https://sjofrem.github.io/restaurant-page/)
 
 #### 📝 Description
-[Restaurant page](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) project from The Odin Project Curriculum. 
+[Restaurant page](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/restaurant-page) project from The Odin Project Curriculum. 
 
 #### 💡 Features
  * Responsive design
